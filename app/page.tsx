@@ -443,7 +443,7 @@ export default function Home() {
 
           <div className="pt-4 border-t border-border/50">
             <p className="text-xs text-muted-foreground/60">
-              Built with Next.js, Tailwind CSS, and shadcn/ui. All processing happens locally in your browser.
+              Built with Next.js, Tailwind CSS, and shadcn/ui. All processing happens locally in your browser...
             </p>
           </div>
         </div>

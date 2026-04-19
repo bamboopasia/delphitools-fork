@@ -443,7 +443,7 @@ export default function Home() {
 
           <div className="pt-4 border-t border-border/50">
             <p className="text-xs text-muted-foreground/60">
-              Built with Next.js, Tailwind CSS, and shadcn/ui. All processing happens locally in your browser.
+              Built with Next.js, Tailwind CSS, and shadcn/ui. All processing happens locally in your browser.!.!
             </p>
           </div>
         </div>
@@ -451,3 +451,4 @@ export default function Home() {
     </div>
   );
 }
+// This file defines the main page of the delphitools website. It includes a hero section, a featured tools section, categorized tool listings, a "Friends of Delphi" section showcasing related projects, and an about section with information about the creator and contributors. The page is styled using Tailwind CSS and includes interactive elements such as hover effects and responsive layouts.
